@@ -79,6 +79,29 @@ Tests use mocked entities and synthetic requests. Live research accuracy, provid
 
 The next phase emphasizes stronger server-side authorization, allocation target validation, calendar safety, failure recovery and deployment-level tests.
 
+
+## Real sandbox screenshots
+
+Captured November 4, 2026 from the separate sandbox app at 1440 × 1000. These are unaltered browser captures of implemented UI with fictional DEMO records, not mockups or evidence of real people, grant awards, cash raised, or production adoption. No live sync or external research was executed during capture.
+
+![Discovery separates sample pursuit and readiness scores from unverified research.](images/02-discovery.jpg)
+
+Discovery separates sample pursuit and readiness scores from unverified research.
+
+![Missing-information cases stay in a human review queue.](images/03-eligibility-review.jpg)
+
+Missing-information cases stay in a human review queue.
+
+![A sample pursuit retains its stage, deadline, and next action; this fixture is not linked to a need.](images/04-funding-pipeline.jpg)
+
+A sample pursuit retains its stage, deadline, and next action; this fixture is not linked to a need.
+
+![HQ-managed operational needs show their mirrored cost breakdown and remaining funding.](images/06-linked-funding-needs.jpg)
+
+HQ-managed operational needs show their mirrored cost breakdown and remaining funding.
+
+**Capture limits:** HQ and Funding Desk dashboards display different additional-funding totals ($2,610 versus $1,110) for the same sample need/secured/pending amounts. HQ also reports zero active projects while its Projects view lists an In Progress fixture. The HQ budget view shows an over-allocation warning and was excluded from this selection. Existing Synced/Integrated badges do not establish a live synchronization test. Discovery scores and eligibility indicators are sample behavior; source verification remains necessary.
+
 ## About this repository
 
 This is a documentation-only portfolio case study. Application source, organizational records and deployment configuration remain private. It contains no actual fundraising results, member data or public application credentials.
